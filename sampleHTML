@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>JavaScript Crash Course</title>
+</head>
+<body>
+    <button id="clickButton">Click me</button>
+    <div id="content">Original Content</div>
+    <script src="javascriptstuff.js"></script>
+</body>
+</html>
